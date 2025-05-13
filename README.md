@@ -9,7 +9,7 @@ Contributors (listed in the alphabetic order of last name):
 - **Caroline Mierzejewski**      *(Texas State University, San Marcos, TX)*
 - **Prakash Pokhrel**            *(University of Glasgow, UK)*
 
-This is an ESPIn Repository for the ESPIn 2025 Channel Routing and Evolution (formerly known as the Floods Group) team project:
+This is an ESPIn Repository for the ESPIn 2025 Channel Routing and Evolution (formerly known as the Floods Group) team project: <br>
 Precipitation aids in eroding landscapes creating new channels and causing others to migrate across floodplains. When discharge increases in the channel, due to frequent rainfall events, sediment transport will increase until the flow velocity decreases, changing the evolution of the channels.
 
 By default, Landlab directs flow and accumulates it using FlowDirectors and FlowAccumulator. The downside to the above components is that they rely on the shallow water equation, something important to note when dealing with large precipitation events that lead to flooding. 
