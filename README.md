@@ -4,7 +4,7 @@
 
 Contributors (listed in the alphabetic order of last name): 
 - **Ekta Aggarwal**              *(University of Southhampton, UK)*
-- **Leia Barnes**                *(LeHigh University, Bethlehem, PA)*
+- **Leia Barnes**                *(Lehigh University, Bethlehem, PA)*
 - **Morgan Carrington**          *(The University of Texas at Austin, Austin, TX)*
 - **Caroline Mierzejewski**      *(Texas State University, San Marcos, TX)*
 - **Prakash Pokhrel**            *(University of Glasgow, UK)*
@@ -16,7 +16,7 @@ By default, Landlab directs flow and accumulates it using FlowDirectors and Flow
 
 This notebook is meant to introduce how LandLab can be used for landscape evolution in response to fluvial erosion, especially made for audiences new to numerical modelling and/or landscape evolution (i.e., undergraduate students, LandLab crash course workshop, etc.). It covers a wide, but broad, example of how to achieve this in simulated or real landscapes and aims to show how one component can be investigated alone (lateral migration) or multiple can be incorporated to see combined effects (precipitation/rainfall, infiltration, incision).
 
-References <br>
+References: <br>
 Barnes, R., 2017. Parallel non-divergent flow accumulation for trillion cell digital elevation models on desktops or clusters. Environmental Modelling & Software 92, 202–212. doi: 10.1016/j.envsoft.2017.02.022
 
 Campforts B., Shobe C.M., Steer P., Vanmaercke M., Lague D., Braun J. (2020) HyLands 1.0: a hybrid landscape evolution model to simulate the impact of landslides and landslide-derived sediment on landscape evolution. Geosci Model Dev: 13(9):3863–86.
